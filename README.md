@@ -55,7 +55,7 @@ An interactive web application designed to help Class 6 and 7 students learn abo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/decision-tree-learning.git
+git clone https://github.com/Khaleel-tech/DecisionTrees.git
 cd decision-tree-learning
 ```
 
@@ -131,8 +131,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any queries or suggestions, please reach out to:
-- Email: info@decisiontreelearner.com
-- Website: [www.decisiontreelearner.com](http://www.decisiontreelearner.com)
+- 📧 Email: shaikkhaleel1425@gmail.com
+- 📱 Phone: +91 7981373894
+- 💻 GitHub: [Khaleel-tech/DecisionTrees](https://github.com/Khaleel-tech/DecisionTrees)
+- 💼 LinkedIn: [Shaik Khasim Khaleel Basha](https://www.linkedin.com/in/shaik-khasim-khaleel-basha-89b877278/)
 
 ---
 
